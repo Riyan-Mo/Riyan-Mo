@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riyan Mohammad.
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me : Email: riyan8308151899@gmail.com   Telegram: Riyan_911
 <!---
