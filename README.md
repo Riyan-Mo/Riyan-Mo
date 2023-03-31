@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="center">- 🏫 I’m a First Year Student.<br>- 📚 I'm currently learning Front End Development.<br>- ⚡ In my free time I read books.</h4>
+<h4 align="center">- 🏫 I’m a First Year Student.<br>- 📚 I'm currently learning Front End Development.<br>- ⚡ In my free time I contribute to Open Source Projects.</h4>
 
 ###
 
