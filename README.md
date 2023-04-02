@@ -69,11 +69,6 @@
   <img src="https://streak-stats.demolab.com?user=Riyan911&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br>
-
-![Snake animation](https://github.com/Riyan911/Riyan911/blob/output/github-contribution-grid-snake.svg)
-
-
 ###
 
 ###
