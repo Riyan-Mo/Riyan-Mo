@@ -59,8 +59,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyan911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riyan911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyan911" alt="riyan911" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyan911&show_icons=true&locale=en&layout=compact" alt="riyan911" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyan911&show_icons=true&locale=en" alt="riyan911" /></p>
 </div>
 
 ###
