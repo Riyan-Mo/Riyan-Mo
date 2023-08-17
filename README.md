@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="center">- 🏫 I’m a Second Year Student.<br>- 📚 I'm currently learning Front End Development.<br>- ⚡ In my free time I contribute to Open Source Projects.</h4>
+<h4 align="center">- 🏫 I’m a Second Year Student.<br>- 📚 I'm currently learning Full Stack Development from Full Stack Open<br>- ⚡ In my free time I contribute to Open Source Projects.</h4>
 
 ###
 
@@ -59,17 +59,16 @@
 ###
 
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyan911" alt="riyan911" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyan911&show_icons=true&locale=en&layout=compact" alt="riyan911" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riyan-Mo&show_icons=true&locale=en&layout=compact&theme=dark" alt="Riyan-Mo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyan911&show_icons=true&locale=en" alt="riyan911" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyan-Mo&show_icons=true&locale=en&theme=dark" alt="Riyan-Mo" /></p>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Riyan911&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Riyan-Mo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
